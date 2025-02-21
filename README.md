@@ -13,7 +13,7 @@ Este é um sistema de reservas de hotel desenvolvido em **Scala** e **PostgreSQL
 
 ## 📌 Tecnologias Utilizadas
 
-- **Scala 3.3.5**
+- **Scala 2.13.6**
 - **PostgreSQL**
 - **SBT (Scala Build Tool)**
 - **JDBC (Java Database Connectivity)**
