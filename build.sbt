@@ -14,3 +14,10 @@ libraryDependencies ++= Seq(
 
 libraryDependencySchemes += "org.scala-lang.modules" %% "scala-parser-combinators" % "early-semver"
 dependencyOverrides += "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2"
+libraryDependencies += "org.mindrot" % "jbcrypt" % "0.4"
+
+libraryDependencies ++= Seq(
+  "org.slf4j" % "slf4j-api" % "1.7.30",
+  "ch.qos.logback" % "logback-classic" % "1.2.3"
+)
+
